@@ -3,7 +3,7 @@
 
 Full Stack Engineer building secure web applications and practical AI workflows. I work across React, TypeScript, Python, Java, APIs, data, and cloud delivery.
 
-📍 Lewisville, Texas · MS in Advanced Data Analytics, University of North Texas
+📍 Dallas, Texas · MS in Advanced Data Analytics, University of North Texas
 
 ## 📬 Contact
 
